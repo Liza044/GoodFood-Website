@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UseR\\Downloads\\WebApplication13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB8EB27-A71A-4094-A987-CBA255D96F5B}|GOOD_FOOD.csproj|c:\\users\\user\\downloads\\webapplication13\\showdb.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3AB8EB27-A71A-4094-A987-CBA255D96F5B}|GOOD_FOOD.csproj|solutionrelative:showdb.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB8EB27-A71A-4094-A987-CBA255D96F5B}|GOOD_FOOD.csproj|C:\\Users\\UseR\\Downloads\\WebApplication13\\showdb.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB8EB27-A71A-4094-A987-CBA255D96F5B}|GOOD_FOOD.csproj|solutionrelative:showdb.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB8EB27-A71A-4094-A987-CBA255D96F5B}|GOOD_FOOD.csproj|C:\\Users\\UseR\\Downloads\\WebApplication13\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3AB8EB27-A71A-4094-A987-CBA255D96F5B}|GOOD_FOOD.csproj|solutionrelative:homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB8EB27-A71A-4094-A987-CBA255D96F5B}|GOOD_FOOD.csproj|C:\\Users\\UseR\\Downloads\\WebApplication13\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{3AB8EB27-A71A-4094-A987-CBA255D96F5B}|GOOD_FOOD.csproj|solutionrelative:site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB8EB27-A71A-4094-A987-CBA255D96F5B}|GOOD_FOOD.csproj|C:\\Users\\UseR\\Downloads\\WebApplication13\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3AB8EB27-A71A-4094-A987-CBA255D96F5B}|GOOD_FOOD.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB8EB27-A71A-4094-A987-CBA255D96F5B}|GOOD_FOOD.csproj|C:\\Users\\UseR\\Downloads\\WebApplication13\\game.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3AB8EB27-A71A-4094-A987-CBA255D96F5B}|GOOD_FOOD.csproj|solutionrelative:game.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB8EB27-A71A-4094-A987-CBA255D96F5B}|GOOD_FOOD.csproj|C:\\Users\\UseR\\Downloads\\WebApplication13\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3AB8EB27-A71A-4094-A987-CBA255D96F5B}|GOOD_FOOD.csproj|solutionrelative:signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB8EB27-A71A-4094-A987-CBA255D96F5B}|GOOD_FOOD.csproj|C:\\Users\\UseR\\Downloads\\WebApplication13\\gallery.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3AB8EB27-A71A-4094-A987-CBA255D96F5B}|GOOD_FOOD.csproj|solutionrelative:gallery.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowDB.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\UseR\\Downloads\\WebApplication13\\ShowDB.aspx.cs",
+              "RelativeDocumentMoniker": "ShowDB.aspx.cs",
+              "ToolTip": "C:\\Users\\UseR\\Downloads\\WebApplication13\\ShowDB.aspx.cs",
+              "RelativeToolTip": "ShowDB.aspx.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:41:31.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowDB.aspx",
+              "DocumentMoniker": "C:\\Users\\UseR\\Downloads\\WebApplication13\\ShowDB.aspx",
+              "RelativeDocumentMoniker": "ShowDB.aspx",
+              "ToolTip": "C:\\Users\\UseR\\Downloads\\WebApplication13\\ShowDB.aspx",
+              "RelativeToolTip": "ShowDB.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-11T22:52:15.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.aspx",
+              "DocumentMoniker": "C:\\Users\\UseR\\Downloads\\WebApplication13\\Game.aspx",
+              "RelativeDocumentMoniker": "Game.aspx",
+              "ToolTip": "C:\\Users\\UseR\\Downloads\\WebApplication13\\Game.aspx",
+              "RelativeToolTip": "Game.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-11T22:52:05.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gallery.aspx",
+              "DocumentMoniker": "C:\\Users\\UseR\\Downloads\\WebApplication13\\Gallery.aspx",
+              "RelativeDocumentMoniker": "Gallery.aspx",
+              "ToolTip": "C:\\Users\\UseR\\Downloads\\WebApplication13\\Gallery.aspx",
+              "RelativeToolTip": "Gallery.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-11T22:52:03.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "C:\\Users\\UseR\\Downloads\\WebApplication13\\HomePage.aspx",
+              "RelativeDocumentMoniker": "HomePage.aspx",
+              "ToolTip": "C:\\Users\\UseR\\Downloads\\WebApplication13\\HomePage.aspx",
+              "RelativeToolTip": "HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-11T22:43:45.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogIn.aspx",
+              "DocumentMoniker": "C:\\Users\\UseR\\Downloads\\WebApplication13\\LogIn.aspx",
+              "RelativeDocumentMoniker": "LogIn.aspx",
+              "ToolTip": "C:\\Users\\UseR\\Downloads\\WebApplication13\\LogIn.aspx",
+              "RelativeToolTip": "LogIn.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-11T22:47:24.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\UseR\\Downloads\\WebApplication13\\Site1.Master",
+              "RelativeDocumentMoniker": "Site1.Master",
+              "ToolTip": "C:\\Users\\UseR\\Downloads\\WebApplication13\\Site1.Master",
+              "RelativeToolTip": "Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-11T22:53:36.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignUp.aspx",
+              "DocumentMoniker": "C:\\Users\\UseR\\Downloads\\WebApplication13\\SignUp.aspx",
+              "RelativeDocumentMoniker": "SignUp.aspx",
+              "ToolTip": "C:\\Users\\UseR\\Downloads\\WebApplication13\\SignUp.aspx",
+              "RelativeToolTip": "SignUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-11T22:52:18.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

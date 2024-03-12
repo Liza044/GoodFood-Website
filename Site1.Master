@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication12.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <style>
+
+        a {text-decoration: none;}
+
+        .right {
+            position: absolute;
+            right: 0px;
+            width: 300px;
+            color: white;
+            background-color: black;
+            font-size: 30px;
+            padding: 7px;
+            border-bottom-left-radius: 20px;
+            text-align: center;
+        }
+
+        .left {
+            position: absolute;
+            left: 0px;
+            width: 300px;
+            color: white;
+            background-color: black;
+            font-size: 30px;
+            padding: 7px;
+            border-bottom-right-radius: 20px;
+            text-align: center;
+        }
+
+        a1{
+            
+            
+        }
+
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>  
+    
+    <a href="HomePage.aspx" class="right"> Home Page </a>
+    <a href="ShowDB.aspx" class="left"> DB </a>
+
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>  
+</body>
+</html>
